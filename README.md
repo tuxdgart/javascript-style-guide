@@ -1,2 +1,2 @@
 # javascript-style-guide
-JavaScript Style Huide
+JavaScript Style Guide
